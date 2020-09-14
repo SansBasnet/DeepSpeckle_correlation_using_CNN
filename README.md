@@ -1,4 +1,4 @@
-# Speckle correlation using Deep Learning on Newtonian fluids
+# Speckle correlation using Deep Learning on Newtonian fluids.
 
 Newtonian fluids such as water with predictable viscosity can be used to perform Dynamic Light Scattering. DLS is used to determine particle size and profiling of polymers in suspension that follow Brownian motion. This relation between the speed of the particles and size is related by the Stokes-Einstein equation.
 
