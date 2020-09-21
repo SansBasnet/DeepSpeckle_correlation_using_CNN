@@ -4,7 +4,7 @@ Newtonian fluids such as water with predictable viscosity could be used to perfo
 
 <img src="https://render.githubusercontent.com/render/math?math=D = {(k_B T)}/{(6 \pi \eta RH)}">
 
-T = translational diffusion coefficient, T = temperature, η = viscosity, R_H = hydrodynamic radius
+T = translational diffusion coefficient, speed of particle [m/s], T = temperature, η = viscosity, R_H = hydrodynamic radius
 
 In DLS, a source of monochromatic light, usually a Laser beam, is projected onto a fluid sample at a fixed distance. The laser beam striking the fluid produces a speckle pattern on fast photon counter at the far end. Time-dependent fluctuations in the scattered light measurement allows us to classify the profile of the impurity within the sample. Since the fluctuations are directly related to the diffusion rate of the particles in the sample, we charted a catalogue of impurities including not limited to the Lake Michigan water, sulphate-rich water, pure water and so on.
 
