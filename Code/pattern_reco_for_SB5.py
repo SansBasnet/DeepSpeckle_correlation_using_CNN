@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 
 
-// Data preprocessing
+// Data preprocessing one-hot-encoding
 
 
 def unpickle(file):
