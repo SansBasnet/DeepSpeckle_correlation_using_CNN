@@ -4,7 +4,7 @@ This is a graduate thesis research of Sans (me) advised by Dr. Eric Landahl at D
 
 Our research is in the intersection of classical mechanics and a Deep Learning model to better understand and classify the identity of a sample present in a given fluid. We are able to do this using a laser beam, a fixed fluid target, a double-pulse system and a detector without any lag. Such novel method gives us richer angular data and in-depth understanding of the sample via high resolution data that could be broken in pixelated form, a categorical data. Read the summary for more information about the experiment. 
 
-Here is a partial picture of speckle produced with a sample with 490 nm latex cubes in suspension acting agent as an impurity. The image is half of full because 
+Here is a partial picture of speckle produced with a sample with 490 nm latex cubes in suspension acting agent as an impurity. The image is a half of full image because of reductionality of datasize  
 
 <br>
 <p align="center">
