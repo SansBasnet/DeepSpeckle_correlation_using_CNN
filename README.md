@@ -11,3 +11,11 @@ Below is a partial picture of speckle produced with a sample with 490 nm latex c
 <img src = "Images/Picture1.png" "Images/Picture1.png" width = "500" height = "300">
 </p>
 <br>
+
+<br>
+<p align="center">
+<img src = "Images/50_100,300_500.png" "Images/50_100,300_500.png" width = "500" height = "300">
+</p>
+<br>
+
+
