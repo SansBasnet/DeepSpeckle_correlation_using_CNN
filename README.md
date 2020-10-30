@@ -4,7 +4,7 @@ This is a graduate thesis research of Sans (me) advised by Dr. Eric Landahl at D
 
 Our research overlaps classical mechanics for the experimental engineerinng and a Deep Learning algorithm to model and classify the identity of the species present in a Newtonian fluid sample. We are able to do this using a coherent laser source, a fixed fluid target, a novel pulse system and a detector without any lag. Such novel method gives us richer angular data and in-depth understanding of the sample, high resolution data, which is later broken in pixelated form, a categorical data. Read the summary for more information about the experiment. 
 
-Below is a one-half picture of speckle produced with a sample with 490 nm latex cubes in suspension acting agent as an impurity. The image is a half of full image because of reductionality of datasize and symmetry of the image fulfills the overall input. The image is 1080 * 1920 pixels. 
+Below is a half of the picture of speckle produced with a sample containin 490 nm latex substrate in suspension, an acting impurity agent. The image is a half of full image because of reductionality of datasize and symmetry of the image fulfills the overall input. The image is 1080 * 1920 pixels. 
 
 <br>
 <p align="center">
