@@ -1,6 +1,6 @@
 # Speckle correlation using Deep Learning algorithms on Newtonian fluids
 
-This is a graduate thesis research of Sans (me) advised by Dr. Eric Landahl at DePaul University, Department of Physics. We are developing and deploying a novel technique braching off from the traditional Dynamic Light Scattering or DLS technique. A Newtonian fluid has a predictable viscocity such as water, which is used in this experiment with various samples, some inorganic some parasitic and biological (inactive). 
+This is a graduate thesis research of Sans (me) advised by Dr. Eric Landahl at DePaul University, Department of Physics. We are developing and deploying a novel technique braching off from the traditional Dynamic Light Scattering or DLS technique. A Newtonian fluid has a predictable viscocity such as water, which is used in this experiment with various samples, some inorganic some parasitic and biological (inanimate). 
 
 Our research overlaps classical mechanics for the experimental engineerinng and a Deep Learning algorithm to model and classify the identity of the species present in a Newtonian fluid sample. We are able to do this using a coherent laser source, a fixed fluid target, a novel pulse system and a detector without any lag. Such novel method gives us richer angular data and in-depth understanding of the sample, high resolution data, which is later broken in pixelated form, a categorical data. Read the summary for more information about the experiment. 
 
