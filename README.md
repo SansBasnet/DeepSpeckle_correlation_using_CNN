@@ -10,7 +10,7 @@ Below is a half of the picture of speckle produced with a sample containin 490 n
 <p align="center">
 <img src = "Images/Picture1.png" "Images/Picture1.png" width = "500" height = "300">
 </p>
-<br>
+ <br>
 
 <br>
 <p align="center">
